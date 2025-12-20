@@ -1,0 +1,15 @@
+1. This is a sample line.
+2. Learning Java file handling.
+3. This file contains multiple lines.
+4. Git is a popular version control system.
+5. Joomla is a CMS for building websites.
+6. IIT Bombay Spoken Tutorials are helpful.
+7. File handling is easy in Java.
+8. Writing text using FileWriter.
+9. Each line ends with a newline.
+10. This is the tenth sample line.
+11. Java programs run on JVM.
+12. Practice makes you perfect.
+13. This is another example line.
+14. Students use text files in assignments.
+15. End of sample.txt content.
